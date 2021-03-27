@@ -1,0 +1,26 @@
+<div class="jumbotron">
+  <h1 class="text-center">Contact Form</h1>
+</div>
+<div class="container">
+
+
+  <form [formGroup]="contactUser" (ngSubmit)="regUser()">
+    <div class="form-group">
+      <label>Name</label>
+      <input type="text" class="form-control" placeholder="Enter Name" formControlName="name">
+    </div>
+    <div class="form-group">
+      <label>Phone-Number</label>
+      <input type="text" class="form-control" placeholder="Enter Phone-Number" formControlName="phone">
+    </div>
+    <div class="form-group">
+      <label>Email</label>
+      <input type="text" class="form-control" placeholder="Enter Email" formControlName="email">
+    </div>
+    <div class="form-group">
+      <label>Message</label>
+      <textarea type="text" class="form-control" placeholder="Any Message" formControlName="message"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>

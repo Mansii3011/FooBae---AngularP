@@ -1,0 +1,86 @@
+{
+  "blog": [
+    {
+      "id": "30",
+      "Title": "Drinks",
+      "content": "As ice cream became the mainstay of the soda fountain, malt milkshakes became so popular that they started to change the name of the establishments to Malt Shops."
+    },
+    {
+      "id": "1616735394702",
+      "Title": "Dosas!",
+      "content": "Dosas are thin, crepe-like pancakes which are native to India. Relished by people all over the country and even all over the world, these rice crepes are one of the most versatile preparations. They can be had for breakfast, lunch, dinner or even as a quick snack in the evenings. Delicious, crispy and eaten with a variety of side dishes, the dosa is one food which never fails to disappoint."
+    },
+    {
+      "id": "1616769315993",
+      "Title": "Rice Noodle Role",
+      "content": "Rice noodle rolls, or Cheung Fun, are a Chinese, Cantonese specifically, thin wide rice noodle that’s rolled up. They can be served filled with shrimp, beef, or other ingredients and also rolled up and served plain. Rice noodle rolls are served as a snack, small meal, or part of dim sum. They’re super popular in Hong Kong and all over the world. Rice noodle rolls are pure comfort food."
+    },
+    {
+      "id": "1616769556635",
+      "Title": "Fruit Pizza",
+      "content": "The jumbo sugar cookie is intentionally underbaked so it stays nice and soft and doughy (SAY NO MORE I am here for this).  It’s topped with a cream cheese frosting – repeat: cream cheese frosting – and then it’s decorated with juicy, colorful fruit in a meticulous rainbow pattern."
+    },
+    {
+      "id": "1616770017490",
+      "Title": "Pasta",
+      "content": "Pasta is a stress-free, no-fuss meal which is loved by people of all age groups. In fact, pasta is not a dish, it’s a feeling in itself. A delicious plate of pasta is the right key to uplift anybody’s mood, isn’t it? Wheat pasta has come as a bane for diet conscious pasta lovers. A good quality wheat pasta is rich in essential nutritious elements.\nHowever, with good taste, the dish should be appealing to the eyes as well."
+    },
+    {
+      "id": "1616770343882",
+      "Title": "Pizza",
+      "content": "Pizza, favored by all ages, dates back to 1889. Pizza, garnished with Mozzarella and tomatoes, was normally known as the dish for poor people until it became a famous dish for the wealthy when Queen Margherita had it as a meal as well. Pizza, with sauces and spices such as basil and garlic added later on, gets recognition by other nations with the arrival of Italian immigrants to the United States.  The spread of pizza all over the world is due to the initiatives of the Americans."
+    },
+    {
+      "id": "1616770933069",
+      "Title": "Pani Puri",
+      "content": " A tongue tickling crowd pleaser, popular all over the country. It is known by different names based on the region – Gol Gappa (East India), Pani Puri (West & South India) or Puchka (North India). This street food sensation is popular among all age groups as it adds a flavorful punch to the palate. Each region or home have their own version of Pani Puri, in terms of fillings."
+    },
+    {
+      "id": "1616771116039",
+      "Title": "Poha",
+      "content": " poha is the signature breakfast dish and a popular item of street food. The recipe uses chopped onion and chillies, mustard seeds, pomegranate, coriander, and jeeravan masala — the mix of spices that is said to give the Indori poha its distinctive taste. There is cumin, bay leaf, nutmeg, mace, asafoetida, black salt, ginger powder, mango powder, cloves, cinnamon and cardamom — all dry roasted — in the spice mix. The Indori poha has a characteristic sweet-sour taste, and is often enjoyed with jalebi."
+    },
+    {
+      "id": "1616771249036",
+      "Title": "Cajun Potato",
+      "content": "potato-based snacks are my all-time favourite, and it is one of the must dish for my lunch, evening snacks or even dinner. especially the rasam rice combination with aloo fry is pure heaven. having said that, my love for potatoes is not just limited to crisp snacks. i do like other variants like pancake, hashbrowns and even the creamy cajun potato recipe from barbeque nation. however, with the barbeque nation style cajun roasted potatoes, i like the sauce rather than the potatoes in it. as a matter of fact, the mixture of mayo, chilli sauce and other spices makes it lip-smacking. you may use the same cajun sauce for other types of fried snacks."
+    }
+  ],
+  "users": [
+    {
+      "name": "Ashish Mishra",
+      "phone": "123456789",
+      "email": "ashish@gmail.com",
+      "message": "Please send us your office details",
+      "id": 6
+    },
+    {
+      "name": "Honey",
+      "phone": "2347889098",
+      "email": "honey4@gmail.com",
+      "message": "Would love to collaborate",
+      "id": 7
+    },
+    {
+      "name": "Eliza",
+      "phone": "810987654",
+      "email": "ele@gmail.com",
+      "message": "Amazing work",
+      "id": 8
+    },
+    {
+      "name": "qwertyui",
+      "phone": "gtjy1234567",
+      "email": "2erghj",
+      "message": "vbmbvcx",
+      "id": 9
+    },
+    {
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "id": 10
+    }
+  ]
+}
